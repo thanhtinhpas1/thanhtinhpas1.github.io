@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "OpenTracing introduction"
+summary: "OpenTracing introduction"
+author: thanhtinhpas1
+date: '2023-05-28 14:35:23 +0530'
+category: jekyll
+thumbnail: /assets/img/Open%20Tracing%2088ac9ee2b6e646e6943a7f8cc8b04974/Untitled.png
+keywords: OpenTracing
+permalink: /blog/open-tracing
+usemathjax: true
+---
 # Open Tracing
 
 ## Introduction

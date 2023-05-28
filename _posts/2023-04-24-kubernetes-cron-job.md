@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Kubernet cron kjob"
+summary: "Kubernet cron kjob"
+author: thanhtinhpas1
+date: '2023-05-28 14:35:23 +0530'
+category: jekyll
+thumbnail: 
+keywords: Kubernet cron kjob
+permalink: /blog/k8s-cron-job
+usemathjax: true
+---
 # K8s CronJob
 
 ## Overview

@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Factory consider db"
+summary: "Factory consider db"
+author: thanhtinhpas1
+date: '2023-05-28 14:35:23 +0530'
+category: jekyll
+thumbnail: 
+keywords: Factory consider db
+permalink: /blog/factory-consider-db
+usemathjax: true
+---
+
 # Factors to consider in database selection
 
 ![Factors selection](https://substack-post-media.s3.amazonaws.com/public/images/d05f286e-16e5-457c-aee3-cc6b960c796d_1600x755.png)

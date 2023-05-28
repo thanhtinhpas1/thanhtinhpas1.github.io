@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Spring Batch Job introduction"
+summary: "Spring Batch Job introduction"
+author: thanhtinhpas1
+date: '2023-05-28 14:35:23 +0530'
+category: jekyll
+thumbnail: /assets/img/Spring%20Batch%20Job%206b8639484e6a48d28c65b0c8ec708562/Untitled.png
+keywords: Spring Batch
+permalink: /blog/spring-batch-job-introduction
+usemathjax: true
+---
+
 # Spring Batch Job
 
 Many applications within the enterprise domain require bulk processing to perform business operations in mission critical environments. These business operations include:

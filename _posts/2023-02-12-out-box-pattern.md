@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Outbox-pattern"
+summary: "Outbox-pattern"
+author: thanhtinhpas1
+date: '2023-05-28 14:35:23 +0530'
+category: jekyll
+thumbnail: /assets/img/Out%20box%20pattern%20b63cf84af1cb4b44b76c2e07a803f592/Untitled.png
+keywords: Outbox-pattern
+permalink: /blog/outbox-pattern
+usemathjax: true
+---
 # Out box pattern
 
 # Hoàn cảnh ra đời
