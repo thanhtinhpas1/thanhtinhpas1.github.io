@@ -213,11 +213,6 @@ header {
     padding: 11px;
 }
 
-img {
-    max-width: 100%;
-}
-
-
 /* bootstrap override */
 .container-fluid {
     padding: 0px !important;
@@ -432,6 +427,10 @@ img {
 #blog-post-container{
     margin-top: 20px;
     margin-left: -35px;
+
+    img {
+        max-width: 100%;
+    }    
 }
 
 .snipcart-modal__container {
