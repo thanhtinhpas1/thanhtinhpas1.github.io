@@ -14,10 +14,10 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Gallery
+    #   url: /gallery
+    # - text: Shop
+    #   url : /shop
     - text: Contact
       url : /contact
 
@@ -48,7 +48,7 @@ author_work_experiences:
               description: Worked on core logictic of GHN
               visibility: true
             - company_name: VNG
-              company_logo: ghn.png
+              company_logo: vng.png
               company_url: https://career.vng.com.vn/
               designation: Fullstack Software Engineer
               description: Worked on various fintech product
@@ -64,12 +64,40 @@ author_education_details:
                 visibility: true
 
 # Projects
-# author_project_details:
+author_project_details:
+              - project_thumbnail: https://simg.zalopay.com.vn/zlp-website/assets/logo1_ff390716a5.svg
+                project_title: Zalopay Merchant
+                project_description: Build merchant solution for various products of fintect
+                project_url: https://zalopay.vn/
+              - project_thumbnail: https://simg.zalopay.com.vn/zlp-website/assets/logo1_ff390716a5.svg
+                project_title: Zalopay Support Center
+                project_description: Build backoffice system for all zalopay projects, as example refund, regain, clear user balance, ekyc, etc
+                project_url: https://zalopay.vn/
+              - project_thumbnail: https://media.licdn.com/dms/image/D560BAQFK4oWqhGj_uw/company-logo_100_100/0/1683278478612?e=1693440000&v=beta&t=6vVMTXONgPCWaR2-GVHHfKA8EKVOHbKlIVotFZaxCT8
+                project_title: Core Operation
+                project_description: Core Operation is a project that keeps the key role to operate all activities of drivers, and trucks for supplies the orders to customers. Besides, it routes orders based on logistics algorithms to reduce the cost.
+                project_url: https://ghn.vn/
+                visibility: true
+              - project_thumbnail: https://media.licdn.com/dms/image/C560BAQFVx7L2Y-Fz2w/company-logo_100_100/0/1541176107679?e=1693440000&v=beta&t=gjiubaazWdVxDYHGRXagPI-COzi-7s0ur4PesLkf_Ks
+                project_title: Lexisnexis - Cloud Development
+                project_description: Associated with KMS Technology, Inc.Associated with KMS Technology, Inc. Domain about tracking all information of cars as the distance of moving, the way when driving of driver, etc to analyze safety score then the factory/company using for sale the insurance.
+                project_url: https://risk.lexisnexis.com/products/telematics-ondemand
+                visibility: true
+              - project_thumbnail: https://media.licdn.com/dms/image/C560BAQFVx7L2Y-Fz2w/company-logo_100_100/0/1541176107679?e=1693440000&v=beta&t=gjiubaazWdVxDYHGRXagPI-COzi-7s0ur4PesLkf_Ks
+                project_title: LexisNexis - HMS
+                project_description: Leverage identity, claims and provide data to deliver meaningful insights that improve outcomes, efficiency, help reduce risk, enable compliance, increase patient engagement and improve outcomes.
+                project_url: https://www.lexisnexis.com/en-us/gateway.page
+                visibility: true
+              - project_thumbnail: https://media.licdn.com/dms/image/C560BAQFVx7L2Y-Fz2w/company-logo_100_100/0/1541176107679?e=1693440000&v=beta&t=gjiubaazWdVxDYHGRXagPI-COzi-7s0ur4PesLkf_Ks
+                project_title: Elemica-Capture
+                project_description: Manage products, orders, customers, products provide for ERP delivery
+                project_url: https://elemica.com/
+                visibility: true
 
 
 # social links
 # twitter_username: johndoe
-github_username: thanhtinhpas1sujaykundu777
+github_username: thanhtinhpas1
 facebook_username: thanhtinhpas1
 linkedin_username: thanhtinhpas1
 # behance_username: johndoe
