@@ -4,7 +4,7 @@ title:  "Factory consider db"
 summary: "Factory consider db"
 author: thanhtinhpas1
 date: '2023-05-28 14:35:23 +0530'
-category: jekyll
+category: database
 thumbnail: 
 keywords: Factory consider db
 permalink: /blog/factory-consider-db

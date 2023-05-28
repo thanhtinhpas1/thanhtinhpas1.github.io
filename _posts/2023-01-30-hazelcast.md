@@ -3,7 +3,7 @@ layout: post
 title:  "Hazelcast introduction"
 summary: "Hazelcast - IMDG"
 author: thanhtinhpas1
-category: jekyll
+category: microservice
 thumbnail: /assets/img/Hazelcast%20-%20IMDG%20b003017322b54bfbbfa5eff303923e48/Untitled.png
 keywords: Hazelcast, IMDG
 permalink: /blog/hazelcast-introduction

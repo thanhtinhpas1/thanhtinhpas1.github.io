@@ -4,7 +4,7 @@ title:  "Microservices abilities"
 summary: "Microservices abilities"
 author: thanhtinhpas1
 date: '2023-05-28 14:35:23 +0530'
-category: jekyll
+category: microservice
 thumbnail: https://s3-ap-southeast-1.amazonaws.com/kipalog.com/dzww7e7j8r_image.png
 keywords: Microservices abilities
 permalink: /blog/microservices-abilities

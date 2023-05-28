@@ -3,7 +3,7 @@ layout: post
 title:  "Kafka and RabbitMQ comparation"
 summary: "Kafka & RabbitMQ comparation"
 author: thanhtinhpas1
-category: jekyll
+category: microservice
 thumbnail: /assets/img/Kafka%20&%20RabbitMQ%20Architecture%20384c0e8fdbca4aa19f67eae833e75fb3/Untitled.png
 keywords: Kafka, RabbitMQ
 permalink: /blog/kafka-and-rabbitMQ
