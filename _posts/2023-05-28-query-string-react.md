@@ -50,3 +50,41 @@ location.search = stringified;
 console.log(history.local.search);
 // => '?foo=unicorn&ilike=pizza'
 ```
+
+## Append query string
+### Installation
+```bash
+npm install append-query
+```
+
+`appendQuery(url, query[, options])`
+
+- **url** - a string url to append to
+- **query** - a string or object containing query params to append
+- **options** (optional)
+    *encodeComponent* - whether or not to en coded appended passed params
+    *removeNull* - whether or not to remove params for null properties in the query object.
+
+```javascript
+var appendQuery = require('append-query')
+
+appendQuery('http://example.com/foo', 'bar=baz&beep=boop')
+// http://example.com/foo?bar=baz&beep=boop
+
+appendQuery('http://example.com/?foo=bar', 'hello=world')
+// http://example.com/?foo=bar&hello=world
+
+appendQuery('http://example.com/', { beep: 'boop' })
+// http://example.com/?beep=boop
+
+appendQuery('http://example.com/', { beep: 'boop' })
+// http://example.com/?beep=boop
+
+// using pre-encoded values
+appendQuery('http://example.com/', { preEncoded: '%22hello%2C%20world!%22' }, { encodeComponents: false })
+// http://example.com/?preEncoded=%22hello%2C%20world!%22
+
+// remove existing values
+appendQuery('http://example.com/?test=1', { test: null }, { removeNull: true })
+// http://example.com/
+```
