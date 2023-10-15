@@ -4,7 +4,6 @@ title:  "Canary Release"
 summary: "Canary Relase"
 author: thanhtinhpas1
 category: microservice
-thumbnail: /assets/img/canary/Untitled.png
 keywords: Release, Canary
 permalink: /blog/canary-release
 usemathjax: true
