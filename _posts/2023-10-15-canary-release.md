@@ -1,10 +1,23 @@
+---
+layout: post
+title:  "Canary Release"
+summary: "Canary Relase"
+author: thanhtinhpas1
+category: microservice
+thumbnail: /assets/img/canary/Untitled.png
+keywords: Release, Canary
+permalink: /blog/canary-release
+usemathjax: true
+---
+
 # Canary Release
 
 Canary release là 1 kỹ thuật để giảm thiểu rủi ro khi release 1 version mới của sản phẩm trên môi trường Production bằng cách rolling out version mới cho từng tập nhỏ users trước khi cho toàn bộ.
 
 Tương tự như [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) bắt đầu deploy version mới cho từng tập hạ tầng thay vì users.
 
-![Untitled](/assets/img/canary/Untitled.png)
+<!-- ![Untitled](/assets/img/canary/Untitled.png) -->
+<img src="/assets/img/canary/Untitled.png" width="40%">
 
 Khi chúng ta kiểm chứng rằng version mới đều ổn thì khi đó chúng ta routing 1 vài users để thử nghiệm. Một vài công ty có thể rolling out cho nội bộ nhân viên sử dụng trước khi đưa ra thị trường, 1 cách khác nữa là lựa chọn users theo những tiêu chí riêng dựa vào dữ liệu người dùng
 
