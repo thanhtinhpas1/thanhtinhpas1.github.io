@@ -5,7 +5,7 @@ summary: "Kubernet cron kjob"
 author: thanhtinhpas1
 date: '2023-05-28 14:35:23 +0530'
 category: k8s
-thumbnail: 
+thumbnail: https://learnbatta.com/assets/images/kubernetes/kubernetes-cronjob.png
 keywords: Kubernet cron kjob
 permalink: /blog/k8s-cron-job
 usemathjax: true

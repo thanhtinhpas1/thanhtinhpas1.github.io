@@ -5,7 +5,7 @@ summary: "Factory consider db"
 author: thanhtinhpas1
 date: '2023-05-28 14:35:23 +0530'
 category: database
-thumbnail: 
+thumbnail: https://images.squarespace-cdn.com/content/v1/5f40c09c48e0fd517ae1f97b/1598777403870-C1JCXUANE45JQNN2JYRC/Database-Thumbnail-new.png
 keywords: Factory consider db
 permalink: /blog/factory-consider-db
 usemathjax: true

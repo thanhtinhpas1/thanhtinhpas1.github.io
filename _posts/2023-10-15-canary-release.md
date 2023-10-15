@@ -5,6 +5,7 @@ summary: "Canary Relase"
 author: thanhtinhpas1
 category: microservice
 keywords: Release, Canary
+thumbnail: https://global-uploads.webflow.com/5c9200c49b1194323aff7304/63074d2b8bb03f0514540ae4_Canary_Diagram-1.png
 permalink: /blog/canary-release
 usemathjax: true
 ---
