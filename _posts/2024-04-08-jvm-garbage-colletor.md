@@ -5,7 +5,6 @@ summary: "JVM Garbage collectors"
 author: thanhtinhpas1
 category: java, jvm
 keywords: java, jvm
-thumbnail: https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide1.png
 permalink: /blog/jvm-garbage-collector
 usemathjax: true
 ---
