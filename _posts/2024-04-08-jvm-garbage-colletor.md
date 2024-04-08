@@ -5,6 +5,7 @@ summary: "JVM Garbage collectors"
 author: thanhtinhpas1
 category: java, jvm
 keywords: java, jvm
+thumbnail: https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide1.png
 permalink: /blog/jvm-garbage-collector
 usemathjax: true
 ---
@@ -15,8 +16,6 @@ usemathjax: true
 # Overview
 
 In this quick tutorial, we’ll demonstrate the basic of different JVM Garbage collector (GC) implementations. Then we’ll learn how to enable a particular type of Garbage Collector in our applications.
-
-![Untitled](/assets/img/jvm-garbage-collector/Untitled.png)
 
 # Brief introduction of GC
 
@@ -109,7 +108,7 @@ From version 15 on, we don’t need to use flag UnlockExperimentalVMOptions
 
 Garbage Collector (GC) reclaims the heap space previously allocated to objects no longer needed. The process of locating and removing the dead objects can stall any application and consume as much as 25 percent throughput.
 
-![Untitled](/assets/img/jvm-garbage-collector/Untitled%201.png)
+![Untitled](/assets/img/jvm-garbage-collector//Untitled%201.png)
 
 The heap space is divided into the old generation and new generation. The new generation includes the new object space (eden) and two survivor spaces. The JVM allocates new objects in the eden space, and moves long-live objects from the new generation to old generation.
 
